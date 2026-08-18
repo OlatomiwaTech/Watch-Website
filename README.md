@@ -142,19 +142,9 @@ npm run preview
 
 ---
 
-## 🖼️ Screenshots
 
-Add screenshots of the website here to showcase the final interface.
 
-```md
-![Homepage](./images/homepage.png)
 
-![Product Page](./images/product-page.png)
-```
-
-A few strong screenshots can make the repository look significantly more polished.
-
----
 
 ## 🔮 Future Improvements
 
